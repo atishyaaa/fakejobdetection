@@ -17,7 +17,7 @@ This project applies **Natural Language Processing (NLP)** and **Machine Learnin
 
 ## 🛠️ Tech Stack
 
-- **Programming Language**: Python 🐍  
+- **Programming Language**: Python 
 - **Data Handling**: Pandas  
 - **Text Preprocessing**: NLTK (stopwords, regex cleaning)  
 - **Feature Extraction**: Scikit-learn (TF-IDF Vectorizer)  
